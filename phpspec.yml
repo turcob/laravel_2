@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Login
+        psr4_prefix: Login
+        src_path: app
